@@ -48,10 +48,9 @@
                 <a class="fab fa-twitter"></a>
                 <a class="fab fa-medium"></a>
             </p>
-
         </div>
         <div>
-            <p><p>Disponibilizado sob a Licença MIT</p></p>
+            <p>Disponibilizado sob a Licença MIT</p>
             <p>Copyright  Minhas Receitas <?= date("Y") ?></p>
         </div>
     </footer>
